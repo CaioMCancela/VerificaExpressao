@@ -11,7 +11,7 @@ int main() {
     char Expressao[100];
     char verificacao;
 
-    Pilha_Construtor(); // Inicializa a pilha (implementada em "VerificaExpressao.h").
+    Pilha_Construtor(); // Inicializa a pilha (implementada em "Pilha.h").
 
     // Solicita ao usuário que insira a expressão matemática a ser verificada e salva no vetor de caracteres Expressao.
     cout << "PROGRAMA VERIFICA EXPRESSAO COM PILHA" << endl << endl;
